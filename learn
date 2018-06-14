@@ -1,4 +1,9 @@
 Learn git and github
 useful
 2018.6.14
+<<<<<<< HEAD
 bad
+=======
+今天2018.6.4首次在Windows上他提交
+这个是用 visual studio code 提交的
+>>>>>>> e03288672a3047569faca8a3dabe7730060e8c20
